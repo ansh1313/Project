@@ -12,5 +12,5 @@ Approach:
 
 ![Screenshot (190)](https://user-images.githubusercontent.com/88348756/219866733-b635c6a3-13c1-4199-a9b6-0db0ef66dd7c.png)
 All the images can be seen that we search
-see the image below is saved after taking the url
+see the image below is that saved after taking the url
 ![Screenshot (191)](https://user-images.githubusercontent.com/88348756/219866816-283117c8-b30c-4389-b6c7-f4d96e694c6b.png)
