@@ -1,4 +1,4 @@
-# Project#
+# Project #
 
 This project will show how to scrape images from websites using python.
 
