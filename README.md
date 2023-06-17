@@ -7,7 +7,7 @@ Approach to do the project=>
 2) After the cloning part conda create -n(Any name) python=3.6.
 3) conda activate (name which you have given in step 2).
 4) After that pip install -r requirements.txt or pip install selenium,pillow,requests.
-5) Go to chrome and download latest driver version
+5) Go to chrome and download latest driver version.
 6) Lastly Python scraper.py and run the code and check the output
 
 ![Screenshot (190)](https://user-images.githubusercontent.com/88348756/219866733-b635c6a3-13c1-4199-a9b6-0db0ef66dd7c.png)
