@@ -2,7 +2,7 @@
 
 This project will show how to scrape images from websites using python.
 
-Approach to do the project=>
+Approach to do the project =>
 1) Create a new Folder and git clone using terminal.
 2) After the cloning part conda create -n(Any name) python=3.6.
 3) conda activate (name which you have given in step 2).
