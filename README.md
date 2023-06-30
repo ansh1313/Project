@@ -1,4 +1,4 @@
-# Project Image Scrapper#
+# Image Scrapper Project #
 
 This project will demonstrate, how to scrape images from websites using python.
 
