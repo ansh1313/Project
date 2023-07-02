@@ -1,6 +1,6 @@
 # Image Scrapper Project #
 
-This project will demonstrate, how to scrape images from websites using python.
+The project will demonstrate, how to scrape images from websites using python.
 
 Approach to do the project =>
 1) Create a new Folder and git clone using terminal.
